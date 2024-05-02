@@ -37,11 +37,11 @@
     margin-left: 20px;
 }
 
-@media (max-width: 992px) {
+/* @media (max-width: 992px) {
     .sidebar {
     display: none; 
     }
-}
+} */
 
 .footer {
     background-color: #f8f9fa;
